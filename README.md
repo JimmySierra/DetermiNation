@@ -4,6 +4,8 @@
 
 ## Hola, mi nombre es sebastian restrepo tengo 20 años de edad , vivo en la ciudad de Medellin, estudio estadistica en la Universidad Nacional 5 semestre sede Medellin, apasionado por la programacion, ciencia de datos e ingenieria de datos.
 
+## Hola, soy jimy sierra, publicista y disñador gráfico de la ciudad de Cali, trabajo en marketing digital y tengo muchos deseos de aprender.
+
 # [Argon Dashboard React NodeJS](https://argon-dashboard-react-nodejs.creative-tim.com/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Dashboard%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-dashboard-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactdashboard%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
